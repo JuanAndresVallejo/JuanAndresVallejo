@@ -121,9 +121,11 @@ passionate_about:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanAndresVallejo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&icon_color=BB86FC&text_color=FFFFFF"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=JuanAndresVallejo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=BB86FC&icon_color=7DF9FF&text_color=FFFFFF&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAndresVallejo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=FFFFFF"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAndresVallejo&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=BB86FC&text_color=FFFFFF&langs_count=8&cache_seconds=1800"/>
 
 </div>
 
@@ -176,6 +178,16 @@ passionate_about:
 
 ---
 
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanAndresVallejo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=BB86FC&line=7DF9FF&point=FFFFFF"/>
+
+</div>
+
+---
+
 # 🌠 Connect With Me
 
 <div align="center">
@@ -201,6 +213,16 @@ passionate_about:
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=JuanAndresVallejo&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JuanAndresVallejo&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
